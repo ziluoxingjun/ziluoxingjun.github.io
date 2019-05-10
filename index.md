@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-## 欢迎来上徐帅呀:smile
+## Welcome to GitHub Pages:Smile
 
 You can use the [editor on GitHub](https://github.com/ziluoxingjun/ziluoxingjun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
