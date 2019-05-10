@@ -1,3 +1,3 @@
 ### Really ?!
 
-[try try](test1.md)
+[try try](test1)
