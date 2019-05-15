@@ -68,4 +68,4 @@ SSH has a huge number of features, so I’d recommend you to checkout the manual
 
 There’s also an amazing talk called [The Black Magic of SSH / SSH Can Do That?](http://vimeo.com/54505525), which I really recommend you to watch.
 
-Forwarded From https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
+- Article Forwarded From https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
