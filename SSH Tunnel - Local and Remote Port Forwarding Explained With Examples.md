@@ -66,4 +66,4 @@ $ ssh -nNT -L 9000:imgur.com:80 user@example.com
 ```
 SSH has a huge number of features, so I’d recommend you to checkout the manual page at `man ssh`, which contains even more tips.
 
-There’s also an amazing talk called The Black Magic of SSH / SSH Can Do That?, which I really recommend you to watch.
+There’s also an amazing talk called [The Black Magic of SSH / SSH Can Do That?](http://vimeo.com/54505525), which I really recommend you to watch.
