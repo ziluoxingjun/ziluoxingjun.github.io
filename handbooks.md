@@ -1,5 +1,5 @@
 ---
-title: Welcome to GitHub Pages:Smile
+Title: Welcome to GitHub Pages:Smile
 ...
 
 <center> CENTER </center>
