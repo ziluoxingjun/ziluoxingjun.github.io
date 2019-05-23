@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages:Smile
+:smile:
 
 ---
 Title: Welcome to GitHub Pages:Smile
@@ -43,6 +44,9 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+  - Bullte
+  - List
+
 1. Numbered
 2. List
 
@@ -50,11 +54,10 @@ Syntax highlighted code block
 
 [link](url) and ![Image](src)
 
-- [ ]
-- [ ]
-- [x]
-- [x]
-- [x]
+- [ ] incomplete
+- [ ] incomplete
+- [x] complete
+- [x] complete
 
 ### [质能守恒公式][1]
 $$E=mc^$$
@@ -102,3 +105,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 [1]: http://weibo.com
+
+- 文件查找
+你可以在任何存储库快速浏览文件。需要快捷方式，在键盘上按 "t" 激活文件查找功能。在按上下键上下查找。
+
+https://git.io/
+
+https://octodex.github.com/
+
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
