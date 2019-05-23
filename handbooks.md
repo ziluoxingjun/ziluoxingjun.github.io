@@ -1,8 +1,11 @@
+## Welcome to GitHub Pages:Smile
+
 ---
 Title: Welcome to GitHub Pages:Smile
+Date: Last update on 2017-05-00
+Style: indigo
+export: html
 ...
-
-<center> CENTER </center>
 
 [TOC]
 
@@ -62,9 +65,9 @@ $$E=mc^$$
 
 ==highlighted==
 
-(:fa-arrow-right:)
-
 <font color="purple">**PURPLE**</font>
+
+<center> CENTER </center>
 
 <table>
         <tr>
