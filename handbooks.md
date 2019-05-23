@@ -67,6 +67,8 @@ $$E=mc^$$
 
 <font color="purple">**PURPLE**</font>
 
+<font color="red" size=8 face="楷体">**PURPLE**</font>
+
 <center> CENTER </center>
 
 <table>
