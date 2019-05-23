@@ -67,9 +67,9 @@ $$E=mc^$$
 
 <font color="purple">**PURPLE**</font>
 
-<font color="red" size=8 face="楷体">**PURPLE**</font>
-
 <center> CENTER </center>
+
+<table><tr><td bgcolor=PowderBlue>这里的背景色是：PowderBlue， 十六进制颜色值： #B0E0E6，rgb(176, 224, 230)</td></tr></table>
 
 <table>
         <tr>
