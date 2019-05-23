@@ -69,8 +69,6 @@ $$E=mc^$$
 
 <center> CENTER </center>
 
-<table><tr bgcolor="red">这里的背景色是：PowderBlue， 十六进制颜色值： #B0E0E6，rgb(176, 224, 230)</tr></table>
-
 <table>
     <tr>
         <th rowspan="2">值班人员</th>
