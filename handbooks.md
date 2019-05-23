@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages:Smile
+---
+title: Welcome to GitHub Pages:Smile
+...
+
+<center> CENTER </center>
 
 [TOC]
 
@@ -49,14 +53,16 @@ Syntax highlighted code block
 - [x]
 - [x]
 
-### 质能守恒公式[1]
+### [质能守恒公式][1]
 $$E=mc^$$
 
 ++underlined++
 
 ~~删除了吧~~
 
-##highlighted##
+==highlighted==
+
+(:fa-arrow-right:)
 
 <font color="purple">**PURPLE**</font>
 
