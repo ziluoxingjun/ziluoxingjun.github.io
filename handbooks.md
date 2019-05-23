@@ -72,31 +72,24 @@ $$E=mc^$$
 <table><tr bgcolor="red">这里的背景色是：PowderBlue， 十六进制颜色值： #B0E0E6，rgb(176, 224, 230)</tr></table>
 
 <table>
-        <tr>
-            <th rowspan="2">值班人员</th>
-            <th>星期一</th>
-            <th>星期二</th>
-            <th>星期三</th>
-        </tr>
-        <tr>
-            <td>李强</td>
-            <td>张明</td>
-            <td>王平</td>
-        </tr>
-    </table>
-
-
-<table>
     <tr>
         <th rowspan="2">值班人员</th>
         <th>星期一</th>
         <th>星期二</th>
         <th>星期三</th>
+        <th>星期四</th>
+        <th>星期五</th>
+        <th>星期六</th>
+        <th>星期日</th>
     </tr>
     <tr>
-        <td>李强</td>
-        <td>张明</td>
-        <td>王平</td>
+        <td>赵一</td>
+        <td>钱二</td>
+        <td>孙三</td>
+        <td>李四</td>
+        <td>周五</td>
+        <td>吴六</td>
+        <td>郑七</td>
     </tr>
 </table>
 
