@@ -13,7 +13,7 @@ $ python -c "import this"
 ```
 
 ### 输出 Mandelbrot 图像
-andelbrot 图像中的每个位置都对应于公式 N=x+y*i 中的一个复数
+andelbrot(曼德勃罗) 图像中的每个位置都对应于公式 N=x+y*i 中的一个复数
 ```bash
 >>> print('\n'.join([''.join(['*'if abs((lambda a: lambda z, c, n: a(a, z, c, n))(lambda s, z, c, n: z if n == 0 else s(s, z*z+c, c, n-1))(0, 0.02*x+0.05j*y, 40)) < 2 else ' ' for x in range(-80, 20)]) for y in range(-20, 20)]))
 ```
@@ -61,4 +61,14 @@ FizzBuzz 问题：打印数字 1 到 100,3 的倍数打印 "Fizz",5 的倍数打
 
 >>> flatten = lambda x: [y for l in x for y in flatten(l)] if isinstance(x,list) else [x]
 >>> print(flatten(a))
+```
+
+### 美丽的螺旋
+```bash
+$ exec("""\nfrom turtle import *\nfor i in range(500): \n    forward(i)\n    left(91)\n""") 
+```
+
+### Happy Birthday
+```bash
+$ print(list(map(lambda x: "Happy Birthday to " + ("you" if x % 2 != 0 else "QX"), range(10))))
 ```
