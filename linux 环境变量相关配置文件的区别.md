@@ -19,4 +19,4 @@
 `~/.bashrc` 每个用户的 bash shell 的信息，当用户登录时以及每次打开一个新的 shell 时，执行这个文件。在这个文件里可以自定义用户专属的个人信息。
 
 
-> https://blog.jjonline.cn/shorthand/233.html
+> Article Forwarded From https://blog.jjonline.cn/shorthand/233.html
